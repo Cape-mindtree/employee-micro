@@ -9,5 +9,10 @@
 	<modules>
 		<module>employee-service</module>
 	</modules>
+	<properties>
+  <sonar.projectKey>Cape-mindtree_employee-micro</sonar.projectKey>
+  <sonar.organization>cape-mindtree</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 	
 </project>
